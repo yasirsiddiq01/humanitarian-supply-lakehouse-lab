@@ -1,3 +1,14 @@
+---
+title: Humanitarian Supply Lakehouse Lab
+emoji: 🚚
+colorFrom: blue
+colorTo: green
+sdk: docker
+app_port: 7860
+pinned: false
+---
+
+
 # Humanitarian Supply Data Lakehouse Migration & Quality Lab
 
 ## Project Overview
