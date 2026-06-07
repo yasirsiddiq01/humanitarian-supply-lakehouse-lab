@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,country,city,warehouse_type
+WH001,Central Medical Warehouse,Kenya,Nairobi,Central
+WH002,Regional Food Storage,Uganda,Kampala,Regional
+WH003,Emergency Relief Hub,Ethiopia,Addis Ababa,Emergency
+WH004,Coastal Distribution Warehouse,Tanzania,Dar es Salaam,Regional
+WH005,Northern Field Warehouse,South Sudan,Juba,Field

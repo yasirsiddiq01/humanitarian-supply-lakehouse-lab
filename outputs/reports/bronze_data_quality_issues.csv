@@ -1,0 +1,71 @@
+shipment_id,issue_type,issue_detail
+SHP0001,delayed_shipment,Shipment delivered 4 days later than planned
+SHP0003,delayed_shipment,Shipment delivered 14 days later than planned
+SHP0006,delayed_shipment,Shipment delivered 1 days later than planned
+SHP0007,delayed_shipment,Shipment delivered 11 days later than planned
+SHP0008,delayed_shipment,Shipment delivered 3 days later than planned
+SHP0011,duplicate_shipment_id,Duplicate shipment_id found in source data
+SHP0011,delayed_shipment,Shipment delivered 2 days later than planned
+SHP0017,delayed_shipment,Shipment delivered 4 days later than planned
+SHP0018,delayed_shipment,Shipment delivered 3 days later than planned
+SHP0019,delayed_shipment,Shipment delivered 2 days later than planned
+SHP0021,delayed_shipment,Shipment delivered 2 days later than planned
+SHP0022,delayed_shipment,Shipment delivered 1 days later than planned
+SHP0023,delayed_shipment,Shipment delivered 3 days later than planned
+SHP0025,delayed_shipment,Shipment delivered 6 days later than planned
+SHP0026,delayed_shipment,Shipment delivered 7 days later than planned
+SHP0030,delayed_shipment,Shipment delivered 14 days later than planned
+SHP0032,delayed_shipment,Shipment delivered 4 days later than planned
+SHP0034,delayed_shipment,Shipment delivered 2 days later than planned
+SHP0035,delayed_shipment,Shipment delivered 7 days later than planned
+SHP0037,delayed_shipment,Shipment delivered 1 days later than planned
+SHP0039,delayed_shipment,Shipment delivered 14 days later than planned
+SHP0040,delayed_shipment,Shipment delivered 8 days later than planned
+SHP0041,delayed_shipment,Shipment delivered 8 days later than planned
+SHP0042,delayed_shipment,Shipment delivered 18 days later than planned
+SHP0043,delayed_shipment,Shipment delivered 8 days later than planned
+SHP0046,delayed_shipment,Shipment delivered 4 days later than planned
+SHP0047,delayed_shipment,Shipment delivered 3 days later than planned
+SHP0048,delayed_shipment,Shipment delivered 3 days later than planned
+SHP0053,delayed_shipment,Shipment delivered 4 days later than planned
+SHP0054,delayed_shipment,Shipment delivered 1 days later than planned
+SHP0056,delayed_shipment,Shipment delivered 2 days later than planned
+SHP0060,delayed_shipment,Shipment delivered 2 days later than planned
+SHP0061,delayed_shipment,Shipment delivered 1 days later than planned
+SHP0062,delayed_shipment,Shipment delivered 4 days later than planned
+SHP0063,delayed_shipment,Shipment delivered 1 days later than planned
+SHP0064,delayed_shipment,Shipment delivered 1 days later than planned
+SHP0065,delayed_shipment,Shipment delivered 7 days later than planned
+SHP0066,delayed_shipment,Shipment delivered 1 days later than planned
+SHP0072,delayed_shipment,Shipment delivered 3 days later than planned
+SHP0073,delayed_shipment,Shipment delivered 14 days later than planned
+SHP0074,delayed_shipment,Shipment delivered 3 days later than planned
+SHP0077,delayed_shipment,Shipment delivered 18 days later than planned
+SHP0078,delayed_shipment,Shipment delivered 1 days later than planned
+SHP0079,delayed_shipment,Shipment delivered 16 days later than planned
+SHP0080,delayed_shipment,Shipment delivered 4 days later than planned
+SHP0083,delayed_shipment,Shipment delivered 3 days later than planned
+SHP0089,delayed_shipment,Shipment delivered 9 days later than planned
+SHP0094,delayed_shipment,Shipment delivered 2 days later than planned
+SHP0097,delayed_shipment,Shipment delivered 16 days later than planned
+SHP0099,delayed_shipment,Shipment delivered 7 days later than planned
+SHP0101,delayed_shipment,Shipment delivered 13 days later than planned
+SHP0102,delayed_shipment,Shipment delivered 18 days later than planned
+SHP0104,delayed_shipment,Shipment delivered 3 days later than planned
+SHP0106,delayed_shipment,Shipment delivered 3 days later than planned
+SHP0108,delayed_shipment,Shipment delivered 4 days later than planned
+SHP0109,delayed_shipment,Shipment delivered 14 days later than planned
+SHP0111,delayed_shipment,Shipment delivered 4 days later than planned
+SHP0113,delayed_shipment,Shipment delivered 5 days later than planned
+SHP0116,delayed_shipment,Shipment delivered 3 days later than planned
+SHP0120,delayed_shipment,Shipment delivered 1 days later than planned
+SHP_MISSING_SUPPLIER,missing_mandatory_field,Missing value in mandatory field: supplier_id
+SHP_UNKNOWN_WAREHOUSE,invalid_warehouse_reference,Warehouse ID does not exist in warehouse master data: WH999
+SHP_INVALID_DATE,impossible_delivery_date,planned_delivery_date is before planned_ship_date
+SHP_INVALID_DATE,impossible_delivery_date,actual_delivery_date is before planned_ship_date
+SHP_NEGATIVE_QTY,invalid_quantity,Quantity must be greater than zero. Found: -50
+SHP_NEGATIVE_QTY,delayed_shipment,Shipment delivered 3 days later than planned
+SHP_UNKNOWN_DP,invalid_distribution_point_reference,Distribution point ID does not exist in master data: DP999
+SHP_UNKNOWN_DP,delayed_shipment,Shipment delivered 15 days later than planned
+SHP0011,duplicate_shipment_id,Duplicate shipment_id found in source data
+SHP0011,delayed_shipment,Shipment delivered 2 days later than planned

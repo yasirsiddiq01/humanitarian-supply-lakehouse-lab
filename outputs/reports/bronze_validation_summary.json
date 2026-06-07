@@ -1,0 +1,18 @@
+{
+  "validated_at": "2026-06-07T18:27:06Z",
+  "source_layer": "bronze",
+  "source_file": "data\\bronze\\shipments\\shipments_raw.csv",
+  "total_source_rows": 126,
+  "missing_schema_columns": [],
+  "total_quality_issues": 70,
+  "affected_unique_shipments": 64,
+  "issue_type_counts": {
+    "delayed_shipment": 62,
+    "duplicate_shipment_id": 2,
+    "impossible_delivery_date": 2,
+    "invalid_distribution_point_reference": 1,
+    "invalid_quantity": 1,
+    "invalid_warehouse_reference": 1,
+    "missing_mandatory_field": 1
+  }
+}

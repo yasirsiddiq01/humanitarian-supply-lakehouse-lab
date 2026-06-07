@@ -1,0 +1,19 @@
+{
+  "processed_at": "2026-06-07T18:27:08Z",
+  "pipeline_stage": "bronze_to_silver",
+  "source_rows": 126,
+  "silver_rows": 120,
+  "rejected_issue_count": 7,
+  "rejected_unique_shipments": 6,
+  "delayed_shipments_kept_in_silver": 59,
+  "total_quantity_shipped_in_silver": 62353,
+  "rejection_reason_counts": {
+    "duplicate_shipment_id": 1,
+    "impossible_delivery_date": 2,
+    "invalid_distribution_point_reference": 1,
+    "invalid_quantity": 1,
+    "invalid_warehouse_reference": 1,
+    "missing_mandatory_field": 1
+  },
+  "business_rule_note": "Delayed shipments are retained in Silver as business KPI records. Hard validation failures are rejected."
+}

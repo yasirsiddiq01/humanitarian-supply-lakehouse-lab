@@ -1,0 +1,15 @@
+stage,metric_name,metric_value
+bronze_validation,delayed_shipment,62
+bronze_validation,duplicate_shipment_id,2
+bronze_validation,impossible_delivery_date,2
+bronze_validation,invalid_distribution_point_reference,1
+bronze_validation,invalid_quantity,1
+bronze_validation,invalid_warehouse_reference,1
+bronze_validation,missing_mandatory_field,1
+silver_rejection,duplicate_shipment_id,1
+silver_rejection,impossible_delivery_date,2
+silver_rejection,invalid_distribution_point_reference,1
+silver_rejection,invalid_quantity,1
+silver_rejection,invalid_warehouse_reference,1
+silver_rejection,missing_mandatory_field,1
+silver_rejection,rejected_unique_shipments,6

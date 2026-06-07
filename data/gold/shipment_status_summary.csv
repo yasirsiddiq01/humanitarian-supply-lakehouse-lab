@@ -1,0 +1,5 @@
+shipment_status,shipment_count,total_quantity_shipped,delayed_shipments,average_delay_days,delayed_rate_percent
+Cancelled,7,5110,0,0.0,0.0
+Delayed,22,9638,22,11.45,100.0
+Delivered,62,33606,37,1.1,59.68
+In Transit,29,13999,0,0.0,0.0

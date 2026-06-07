@@ -1,0 +1,29 @@
+{
+  "generated_at": "2026-06-07T18:27:03Z",
+  "random_seed": 42,
+  "files_created": {
+    "warehouses": "data/bronze/warehouses/warehouses_raw.csv",
+    "suppliers": "data/bronze/suppliers/suppliers_raw.csv",
+    "distribution_points": "data/bronze/distribution_points/distribution_points_raw.csv",
+    "inventory": "data/bronze/inventory/inventory_raw.csv",
+    "shipments_csv": "data/bronze/shipments/shipments_raw.csv",
+    "shipments_json": "data/bronze/shipments/shipments_raw.json"
+  },
+  "row_counts": {
+    "warehouses": 5,
+    "suppliers": 5,
+    "distribution_points": 5,
+    "inventory": 25,
+    "shipments": 126
+  },
+  "intentional_data_quality_issues": [
+    "missing supplier_id",
+    "duplicate shipment_id",
+    "unknown source_warehouse_id",
+    "unknown distribution_point_id",
+    "planned delivery date before planned ship date",
+    "actual delivery date before planned ship date",
+    "negative quantity_shipped",
+    "delayed shipments"
+  ]
+}

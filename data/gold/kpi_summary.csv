@@ -1,0 +1,2 @@
+generated_at,total_source_rows,silver_rows,rejected_unique_shipments,rejected_issue_count,total_shipments_in_gold,delivered_shipments,in_transit_shipments,cancelled_shipments,delayed_status_shipments,delayed_by_date_shipments,delayed_by_date_rate_percent,total_quantity_shipped,total_inventory_available,average_delay_days
+2026-06-07T18:27:11Z,126,120,6,7,120,62,29,7,22,59,49.17,62353,58293,2.67

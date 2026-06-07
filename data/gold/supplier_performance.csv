@@ -1,0 +1,6 @@
+supplier_id,supplier_name,supplier_category,country,shipment_count,total_quantity_shipped,delayed_shipments,average_delay_days,delayed_rate_percent
+SUP003,ShelterPack International,Shelter,Turkey,33,17216,20,2.79,60.61
+SUP005,EduKit Relief,Education,United Kingdom,15,7962,8,2.53,53.33
+SUP002,NutriAid Logistics,Nutrition,Netherlands,28,15415,14,2.75,50.0
+SUP001,Global Health Supplies,Medical,Germany,18,8682,8,4.17,44.44
+SUP004,WaterSafe Systems,WASH,Spain,26,13078,9,1.46,34.62

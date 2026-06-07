@@ -1,0 +1,6 @@
+distribution_point_id,distribution_point_name,country,city,beneficiary_group
+DP001,Nairobi Child Health Centre,Kenya,Nairobi,Children under 5
+DP002,Kampala Nutrition Site,Uganda,Kampala,Pregnant women
+DP003,Addis Emergency Camp,Ethiopia,Addis Ababa,Displaced families
+DP004,Dar es Salaam WASH Centre,Tanzania,Dar es Salaam,School children
+DP005,Juba Field Clinic,South Sudan,Juba,Emergency patients

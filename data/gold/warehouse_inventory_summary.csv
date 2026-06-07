@@ -1,0 +1,6 @@
+warehouse_id,warehouse_name,country,city,warehouse_type,item_count,total_quantity_available
+WH004,Coastal Distribution Warehouse,Tanzania,Dar es Salaam,Regional,5,16384
+WH002,Regional Food Storage,Uganda,Kampala,Regional,5,13117
+WH005,Northern Field Warehouse,South Sudan,Juba,Field,5,11622
+WH001,Central Medical Warehouse,Kenya,Nairobi,Central,5,9703
+WH003,Emergency Relief Hub,Ethiopia,Addis Ababa,Emergency,5,7467

@@ -1,0 +1,11 @@
+{
+  "created_at": "2026-06-07T18:27:11Z",
+  "pipeline": "bronze_to_silver_to_gold",
+  "source_rows": 126,
+  "silver_rows": 120,
+  "gold_shipments": 120,
+  "rejected_unique_shipments": 6,
+  "row_balance_check": true,
+  "row_balance_formula": "source_rows should equal silver_rows + rejected_unique_shipments",
+  "business_note": "Delayed shipments are not rejected. They remain in Gold as KPI records."
+}

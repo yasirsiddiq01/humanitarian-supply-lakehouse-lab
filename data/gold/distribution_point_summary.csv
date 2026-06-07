@@ -1,0 +1,6 @@
+distribution_point_id,distribution_point_name,country,city,beneficiary_group,shipment_count,total_quantity_received,delayed_shipments,average_delay_days,delayed_rate_percent
+DP001,Nairobi Child Health Centre,Kenya,Nairobi,Children under 5,29,17608,11,2.55,37.93
+DP002,Kampala Nutrition Site,Uganda,Kampala,Pregnant women,23,12122,11,2.48,47.83
+DP003,Addis Emergency Camp,Ethiopia,Addis Ababa,Displaced families,20,11590,11,2.5,55.0
+DP004,Dar es Salaam WASH Centre,Tanzania,Dar es Salaam,School children,26,10854,16,4.04,61.54
+DP005,Juba Field Clinic,South Sudan,Juba,Emergency patients,22,10179,10,1.55,45.45

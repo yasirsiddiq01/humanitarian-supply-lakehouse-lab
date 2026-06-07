@@ -1,0 +1,8 @@
+shipment_id,rejection_reason,rejection_detail
+SHP_MISSING_SUPPLIER,missing_mandatory_field,Missing value in mandatory field: supplier_id
+SHP_UNKNOWN_WAREHOUSE,invalid_warehouse_reference,Warehouse ID not found in warehouse master data: WH999
+SHP_INVALID_DATE,impossible_delivery_date,planned_delivery_date is before planned_ship_date
+SHP_INVALID_DATE,impossible_delivery_date,actual_delivery_date is before planned_ship_date
+SHP_NEGATIVE_QTY,invalid_quantity,Quantity must be greater than zero. Found: -50
+SHP_UNKNOWN_DP,invalid_distribution_point_reference,Distribution point ID not found in master data: DP999
+SHP0011,duplicate_shipment_id,Duplicate shipment_id found. Later duplicate record rejected.
